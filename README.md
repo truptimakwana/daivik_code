@@ -1,3 +1,4 @@
 # daivik_code updated git 
 # trupti makwana.
-Trupti..
+Trupti..Makwana
+daivik makwana
